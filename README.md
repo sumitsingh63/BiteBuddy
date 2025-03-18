@@ -36,7 +36,7 @@ to make you get started, ASAP. But still, if you have even silliest of questions
 
 Make sure you fork it, to make your copy of the repo.
 
-`git clone https://github.com/summitsingh/bitebuddy.git`
+`git clone https://github.com/summitsingh63/bitebuddy.git`
 
 Now it's damn easy.
 
